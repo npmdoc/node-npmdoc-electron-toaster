@@ -1,4 +1,7 @@
-# api documentation for  [electron-toaster (v2.0.4)](https://github.com/s-a/electron-toaster#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-toaster)
+# npmdoc-electron-toaster
+
+#### basic api documentation for  [electron-toaster (v2.0.4)](https://github.com/s-a/electron-toaster#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-toaster.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-toaster) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-toaster.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-toaster)
+
 #### A simple toaster for electron
 
 [![NPM](https://nodei.co/npm/electron-toaster.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/electron-toaster)
@@ -58,7 +61,8 @@
         "bump": "npm version patch && git push && git push --tags && npm publish",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.0.4"
+    "version": "2.0.4",
+    "bin": {}
 }
 ```
 
